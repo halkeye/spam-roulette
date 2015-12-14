@@ -4,7 +4,7 @@ import { render } from 'react-dom';
 import { Router, Route } from 'react-router';
 
 import Component from './Component';
-import Component from './Header';
+import Header from './Header';
 import NewSession from './NewSession';
 
 const NoMatch = React.createClass({
